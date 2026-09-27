@@ -69,7 +69,7 @@ If your system uses python3, use:
 
 python3 main.py
 
-## Screenshots:
+# 📸 Screenshots:
 <img width="870" height="424" alt="image" src="https://github.com/user-attachments/assets/8c73350c-7a7f-4ba0-ac31-fd28107c8a10" />
 <img width="600" height="697" alt="image" src="https://github.com/user-attachments/assets/f7d35296-39f6-4450-980e-8f6ff4162456" />
 <img width="702" height="355" alt="image" src="https://github.com/user-attachments/assets/31943b8f-d491-4f6a-b14a-0eadcdab7b36" />
